@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The img element</h1>
+
+<img src=".../2021-09-25.png">
+
+</body>
+</html>
